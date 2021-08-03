@@ -1,11 +1,10 @@
 # Fortnite-External-D2-Circle-Hands-and-Feet-ESP
-Self Leaked ESP Circle Hands and Feet ESP for ONLY D2 Fortnite External such as oracle pastes
 
 
-
-auto Root = GetBoneWithRotation(currentactormesh, 11);
+                       Self Leaked Circle Hands and Feet ESP only for D2 external fortnite cheats
+                   
+                        auto Root = GetBoneWithRotation(currentactormesh, 11);
 			Vector3 Root2 = ProjectWorldToScreen(Root);
-
 			auto Root3 = GetBoneWithRotation(currentactormesh, 39);
 			Vector3 Root4 = ProjectWorldToScreen(Root3);
 
@@ -24,8 +23,8 @@ auto Root = GetBoneWithRotation(currentactormesh, 11);
 
 
 
-Discord: dsc.lol/shotware
-Discord: dsc.lol/shotware
-Discord: dsc.lol/shotware
-Discord: dsc.lol/shotware
-Discord: dsc.lol/shotware
+                        Discord: dsc.lol/shotware
+                        Discord: dsc.lol/shotware
+                        Discord: dsc.lol/shotware
+                        Discord: dsc.lol/shotware
+                        Discord: dsc.lol/shotware
